@@ -6,8 +6,6 @@ collection: portfolio
 
 
 
-## Artificial Intelligence and Machine Learning (AIML)
-
 Research in the AIML Group aims to create a unique synergy of strength in artificial intelligence, machine learning, big data analytics, data mining, intelligent user interfaces, autonomy-oriented computing, and Web intelligence. The group is positioned to develop advanced algorithms and intelligent systems to meet the real-world needs and challenges, e.g., in healthcare and social computing.
 
 
