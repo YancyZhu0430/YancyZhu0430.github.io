@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Awards & Services"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Awards
+------
+* Best Paper Award: 2022 APSCOM Conference.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Finalist of 2023 IEEE PES Grid-Edge PhD Dissertation Challenge, San Diego, CA.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* First Runner-up of PhD Thesis Competition, The Hong Kong Polytechnic University.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* The Hong Kong Polytechnic University Research Studentship.
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
+Services
+------
+* Peer Reviewer for *IEEE Transactions on Power Systems.*
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Peer Reviewer for *IEEE Transactions on Smart Grid.*
+* Peer Reviewer for *IEEE Transactions on Sustainable Energy.*
+* Peer Reviewer for *IEEE Transactions on Energy Market, Policy and Regulation.*
+* Peer Reviewer for *IEEE Power Engineering Letters.*
+* Peer Reviewer for *IEEE Access.*
+* Peer Reviewer for *Energy Conversion and Economics.*
