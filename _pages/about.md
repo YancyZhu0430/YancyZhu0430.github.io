@@ -1,10 +1,13 @@
 ---
+​---
 permalink: /
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+​---
 ---
 
 **Position:** Research Assistant Professor, Artificial Intelligence and Machine Learning (AIML) Lab, Department of Computer Science, The Hong Kong Baptist University (HKBU) 
