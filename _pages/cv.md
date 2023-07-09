@@ -24,7 +24,6 @@ Awards
 Services
 ------
 * Peer Reviewer for *IEEE Transactions on Power Systems.*
-  
 * Peer Reviewer for *IEEE Transactions on Smart Grid.*
 * Peer Reviewer for *IEEE Transactions on Sustainable Energy.*
 * Peer Reviewer for *IEEE Transactions on Energy Market, Policy and Regulation.*
