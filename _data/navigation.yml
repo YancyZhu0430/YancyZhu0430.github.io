@@ -4,13 +4,13 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /talks/    
+    url: /Research/    
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Group"
-    url: /portfolio/
+    url: /Group/
     
   - title: "Awards & Services"
     url: /cv/
