@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-#### **Selected Journal Publications**
+## **Selected Journal Publications**
 
 [1]  **【JCR Q1 (15/119), Impact Factor =** **11.446**】**Z. Zhu**, K. W. Chan, S. Bu, B. Zhou, S. Xia, “Real Time Interaction of Active Distribution Network and Virtual Microgrids: Market Paradigm and Data-Driven Stakeholder Behavior Analysis,” in *Applied Energy*, vol. 297, p. 117107, 2021. 
 
@@ -25,7 +25,7 @@ author_profile: true
 
 [9]  **【JCR Q2 (84/276), Impact Factor = 4.4】**G. Sun, G. Li, P. Li, S. Xia, **Z. Zhu**, and M. Shahidehpour, “Coordinated Operation of Hydrogen-Integrated Urban Transportation and Power Distribution Networks Considering Fuel Cell Electric Vehicles,” *IEEE transactions on industry applications*, vol. 58, no. 2, pp. 2652–2665, 2022.
 
-#### **Publications Under Review**
+## **Publications Under Review**
 
 [10]  **【****JCR Q1 (32/276), Impact Factor = 7.326****】****Z. Zhu**, K. W. Chan, S. Bu, S. Xia, “An Imitation Learning Based Algorithm Enabling Priori Knowledge Transfer in Modern Electricity Markets for Bayesian Nash Equilibrium Estimation,” submitted to *IEEE Transactions on Power Systems* (2nd Round of Revision)
 
