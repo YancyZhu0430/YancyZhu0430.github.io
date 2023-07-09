@@ -2,7 +2,8 @@
 
 ---
 title: "Research Group"
-excerpt: "Artificial Intelligence and Machine Learning (AIML)<br/>
+excerpt: "Artificial Intelligence and Machine Learning (AIML) <br/>
+collection: portfolio
 
 
 
