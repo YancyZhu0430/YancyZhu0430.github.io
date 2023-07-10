@@ -1,8 +1,8 @@
 ---
-layout: archive
-title: "Research & Industrial Collaborations"
-permalink: /research/
-author_profile: true
+title: "Research Interests and Industrial Collaborations"
+collection: research
+type: "research"
+permalink: /research/2012-03-01-talk-1
 ---
 
 
