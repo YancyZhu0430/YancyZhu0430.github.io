@@ -23,4 +23,4 @@ Research in the AIML Group aims to create a unique synergy of strength in artifi
 - [Dr. ZHANG, Eric Lu](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=ericluzhang)
 - Dr. ZHU, Ziqing
 
-For details, please visit the [Group Homepage]([Research Areas - Artificial Intelligence and Machine Learning (AIML) | HKBU COMP](https://www.comp.hkbu.edu.hk/v1/?page=research_areas&id=1))
+For details, please visit the [Group Homepage](https://www.comp.hkbu.edu.hk/v1/?page=research_areas&id=1)
