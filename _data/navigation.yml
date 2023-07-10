@@ -4,16 +4,16 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /talks/    
+    url: /research/    
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Group"
-    url: /portfolio/
+    url: /group/
     
   - title: "Awards & Services"
-    url: /cv/
+    url: /awards/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Join Us"
+    url: /joinus/
