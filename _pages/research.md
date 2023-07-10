@@ -7,7 +7,9 @@ permalink: /research/2012-03-01-talk-1
 
 
 
-### **Research Interests**
+
+
+## **Research Interests**
 
 ##### Safe Reinforcement Learning (RL) in Future Energy System Dispatch and Control
 
@@ -25,7 +27,7 @@ RL is a bottom-up, agent-based simulation tool, which requires very accurate mod
 
 
 
-### Industrial Projects and Collaborations
+## Industrial Projects and Collaborations
 
 We will be collaborating with *HK Electric Co.Ltd* (香港電燈有限公司), aiming at developing an AI-enabled power system asset management, monitoring and maintenance system. Key topics under this research project include:
 
