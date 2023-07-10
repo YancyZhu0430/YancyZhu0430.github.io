@@ -9,7 +9,7 @@ author_profile: true
 
 ## Vacancies
 
-- ##### We will be hiring research assistants for our industry projects. Details to be released soon...
+- #### We will be hiring research assistants for our industry projects. Details to be released soon...
 
 
 
