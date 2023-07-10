@@ -1,12 +1,13 @@
 ---
-title: "Research Group"
-excerpt: "Artificial Intelligence and Machine Learning (AIML) <br/><img src='/images/500x300.png'>"
-collection: portfolio
+layout: archive
+title: "Artificial Intelligence and Machine Learning (AIML) Group"
+permalink: /group/
+author_profile: true
 ---
 
 
 
-Research in the AIML Group aims to create a unique synergy of strength in artificial intelligence, machine learning, big data analytics, data mining, intelligent user interfaces, autonomy-oriented computing, and Web intelligence. The group is positioned to develop advanced algorithms and intelligent systems to meet the real-world needs and challenges, e.g., in healthcare and social computing.
+Research in the AIML Group aims to create a unique synergy of strength in artificial intelligence, machine learning, big data analytics, data mining, intelligent user interfaces, autonomy-oriented computing, and Web intelligence. The group is positioned to develop advanced algorithms and intelligent systems to meet the real-world needs and challenges, e.g., in healthcare, social computing, and energy systems.
 
 
 
