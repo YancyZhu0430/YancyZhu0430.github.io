@@ -1,16 +1,15 @@
 ---
 layout: archive
 title: "Awards & Services"
-permalink: /cv/
+permalink: /awards/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+
 
 Awards
 ------
+
 * Best Paper Award: 2022 APSCOM Conference.
 
 * Finalist of 2023 IEEE PES Grid-Edge PhD Dissertation Challenge, San Diego, CA.
