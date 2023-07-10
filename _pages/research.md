@@ -23,6 +23,8 @@ Imitation learning can be considered as the combination of RL and Generative Adv
 
 RL is a bottom-up, agent-based simulation tool, which requires very accurate modeling of the environment. Hence, it is only applicable to small-scale systems, such as local electricity markets. For analysis of Macro energy policies in large systems (for example, in regional-level or cross-national energy markets), detailed modeling of the environment is overwhelmingly complicated. Existing solutions are those ”top-down” models, such as General Equilibrium Models and Econometrics Models. However, top-down models cannot formulate the bottom-level behaviors well. An intuitive idea is to combine Top-down models and RL, with their advantages combined together. This methodology can be used to investigate many interesting topics related to marco-level energy policy analysis.
 
+
+
 ### Industrial Projects and Collaborations
 
 We will be collaborating with *HK Electric Co.Ltd* (香港電燈有限公司), aiming at developing an AI-enabled power system asset management, monitoring and maintenance system. Key topics under this research project include:
